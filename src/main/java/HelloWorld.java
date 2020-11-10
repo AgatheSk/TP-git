@@ -18,6 +18,7 @@ public class HelloWorld {
     */
     
     //Ce commentaire est signé Léandre Garriga
+    //Création de conflit
     
     public void Hello(){
         System.out.println("Hello");
