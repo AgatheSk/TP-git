@@ -15,8 +15,6 @@ public class HelloWorld {
     //Changement de commentaire
     
     //Ce commentaire est signé Léandre Garriga
-    
-
     //Création de conflit2
     
     public void Hello(){
