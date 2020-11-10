@@ -12,7 +12,7 @@ public class HelloWorld {
     
     //Ceci est un commentaire
     // Hello
-    //Code imprime hello
+    //Changement de commentaire
     
     //Ce commentaire est signé Léandre Garriga
     //Création de conflit
