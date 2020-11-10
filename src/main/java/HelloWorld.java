@@ -11,10 +11,11 @@
 public class HelloWorld {
     
     //Ceci est un commentaire
-    // Hello    
+    // Hello   
     //Ce commentaire est signé Léandre Garriga
-    //Création de conflit
+    //Création de conflit2
     
+    //creation conflit3  
     public void Hello(){
         System.out.println("Hello");
     }
