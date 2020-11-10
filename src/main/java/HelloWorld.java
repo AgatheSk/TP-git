@@ -11,9 +11,7 @@
 public class HelloWorld {
     
     //Ceci est un commentaire
-    // Hello
-    //Changement de commentaire
-    
+    // Hello    
     //Ce commentaire est signé Léandre Garriga
     //Création de conflit
     
