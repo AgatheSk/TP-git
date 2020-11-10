@@ -13,9 +13,6 @@ public class HelloWorld {
     //Ceci est un commentaire
     // Hello
     //Code imprime hello
-    /*
-    ok
-    */
     
     //Ce commentaire est signé Léandre Garriga
     
