@@ -15,6 +15,7 @@ public class HelloWorld {
     //Code imprime hello
     
     //Ce commentaire est signé Léandre Garriga
+    //Création de conflit
     
     public void Hello(){
         System.out.println("Hello");
